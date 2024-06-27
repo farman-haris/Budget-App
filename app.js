@@ -205,6 +205,3 @@ function reset() {
     expenseDesc.value = "";
     expenseTitle.value = "";
 }
-
-/*Created This Budget App as a Assignment From SMIT (Saylani mass training program), it is open source project for every one if you find any bug in this project 
-feel free to edit  and update it..*/
